@@ -1,4 +1,4 @@
-# 01_Global_Index: Foundational Statistical Dataset
+# : Foundational 02_Analytical_Framework.Statistical Dataset
 
 **Dataset Source:** Noor Center for Quranic Studies (مركز نون للدراسات القرآنية)  
 **Primary Researcher:** Abdul Razzaq Abawi (عبد الرزاق عباوي)  
