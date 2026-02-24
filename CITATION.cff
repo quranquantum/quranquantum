@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+  - family-names: "Macky"
+    given-names: "Ahmed"
+    orcid: "https://orcid.org/0000-0002-3932-8874"
+title: "quranquantum: Advanced Theoretical Physics and 11D Mathematics"
+version: 1.0.0
+date-released: 2026-02-24
+url: "https://github.com/AhmedMacky/quranquantum"
