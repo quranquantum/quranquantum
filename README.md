@@ -49,5 +49,27 @@ The 11th Quantum Manifold operates as a saturated system of **11 identical Tesse
 
 ### 4. G2401 Tesseract Geometry
 * **Volumetric Limit:** $7^4 = 2401$ bounds each independent dimensional envelope.
+* ---
+
+## 📜 Official Publication Reference (Version 4.0)
+The complete research paper, mathematical derivations, and structural proofs extending these lists into the 11D framework are fully open and accessible via Zenodo.
+
+* **Read the Master Paper:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20584656.svg)](https://doi.org/10.5281/zenodo.20584656)
+* **Automated Code Repository Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18762919.svg)](https://doi.org/10.5281/zenodo.18762919)
+
+### The 62-261 Saturated System Matrix
+This matrix defines the compaction mechanics, boundary constraints, and structural distribution of containers within the manifold volume limit of 2401.
+
+* **Raw Data File:** See [`62-261_table.csv`](./62-261_table.csv) in this repository for the complete structured dataset.
+
+| Metric Parameter | Value Constraint | Physical / Geometric Representation |
+| :--- | :--- | :--- |
+| **Total Manifold Capacity** | 26,411 | Saturated system of 11 identical Tesseract envelopes |
+| **Volumetric Envelope** | 2401 | Bounded outer limit ($7^4$) per dimension |
+| **Fundamental Seed** | 297 | Matter-wave core informational seed ($27 \times 11$) |
+| **Transition Arc** | 261 | Compaction arc governing container scaling ($9 \times 29$) |
+| **Nucleus Base** | 62 | Generative nucleus table value driving spatial expansion |
+
+**Author Profile:** Ahmed Macky ([ORCID iD: 0009-0003-0580-2133](https://orcid.org/0009-0003-0580-2133))
 * **Manifold Saturation Floor:** Balanced via the matter-wave core constant of 27.
 * **Density Transition Boundary:** Managed via the 261-arc ($9 \times 29$) scaling matrix.
