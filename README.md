@@ -55,7 +55,7 @@ The 11th Quantum Manifold operates as a saturated system of **11 identical Tesse
 The complete research paper, mathematical derivations, and structural proofs extending these lists into the 11D framework are fully open and accessible via Zenodo.
 
 * **Read the Master Paper:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20584656.svg)](https://doi.org/10.5281/zenodo.20584656)
-* **Automated Code Repository Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18762919.svg)](https://doi.org/10.5281/zenodo.18762919)
+* **Automated Code Repository Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18498279.svg)](https://doi.org/10.5281/zenodo.18498279)
 
 ### The 62-261 Saturated System Matrix
 This matrix defines the compaction mechanics, boundary constraints, and structural distribution of containers within the manifold volume limit of 2401.
