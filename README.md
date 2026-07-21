@@ -56,7 +56,11 @@ The complete research paper, mathematical derivations, and structural proofs ext
 
 * **Read the Master Paper:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20584656.svg)](https://doi.org/10.5281/zenodo.20584656)
 * **Automated Code Repository Archive:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18498279.svg)](https://doi.org/10.5281/zenodo.18498279)
+### Preprints & Publications
 
+* **Sporadic Intersections Between E₆ and the Leech Lattice: A Structural Analysis of the Modular Gap and Theta Series** (2026)
+  * **Zenodo DOI:** [10.5281/zenodo.21473522](https://doi.org/10.5281/zenodo.21473522)
+  * **PDF:** `Macky-z-_Sporadic_Intersection_E_6_Leech_Lattice.pdf`
 ### The 62-261 Saturated System Matrix
 This matrix defines the compaction mechanics, boundary constraints, and structural distribution of containers within the manifold volume limit of 2401.
 
