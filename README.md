@@ -18,9 +18,9 @@ The 11th Quantum Manifold operates as a saturated system of **11 identical Tesse
 
 ## 📚 Preprints & Registered Publications
 
-* **Sporadic Intersections Between $E_6$ and the Leech Lattice: A Structural Analysis of the Modular Gap and Theta Series (2026)**
+* **On the 324-Unit Gap Between the Leech Lattice and the Griess Algebra: A Documented Correspondence with E6 and the Moser–de Bruijn Sequence (2026)**
   * **Zenodo DOI:** [10.5281/zenodo.21473522](https://doi.org/10.5281/zenodo.21473522)
-  * **PDF Document:** `Macky-z-_Sporadic_Intersection_E_6_Leech_Lattice.pdf`
+  * **PDF Document:** `Macky_4J_Sporadic_Leech.pdf`
 * **Master Paper Reference (Version 4.0):**
   * **Zenodo DOI:** [10.5281/zenodo.20584656](https://doi.org/10.5281/zenodo.20584656)
 * **Automated Code Repository Archive:**
