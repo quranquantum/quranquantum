@@ -81,8 +81,6 @@ This matrix defines the compaction mechanics, boundary constraints, and structur
 | `combined Codes-GI(Sheet1).csv` | **Unified Structural Values.** Consolidated database layer for automated system validation. |
 | `topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of the 196,883 resonant saturation alignments and boundary field invariants. |
 | `Z-11 Quantum Compactification (G2401).pdf` | **Upcoming Publication.** Comprehensive proof of the 11-Tesseract saturation model, the 26,411 manifold ceiling, and the 261-arc density transition equations. |
-| File Name | Structural Role & Explanation |
-| --- | --- |
 | **Strings Master Colour List‑47L‑31N‑21Y (2).xlsx** | **Coloured Master Invariant Matrix.** Visual version of the 47‑31‑21 structural dataset, highlighting static lines, dynamic nodes, and yield‑points for verification and reproduction. |
 | File Name | Structural Role & Explanation |
 | --- | --- |
