@@ -84,3 +84,6 @@ This matrix defines the compaction mechanics, boundary constraints, and structur
 | File Name | Structural Role & Explanation |
 | --- | --- |
 | **Strings Master Colour List‑47L‑31N‑21Y (2).xlsx** | **Coloured Master Invariant Matrix.** Visual version of the 47‑31‑21 structural dataset, highlighting static lines, dynamic nodes, and yield‑points for verification and reproduction. |
+# User's Edge browser tabs metadata
+edge_all_open_tabs = [...]
+
