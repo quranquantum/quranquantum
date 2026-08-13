@@ -88,4 +88,6 @@ This matrix defines the compaction mechanics, boundary constraints, and structur
 edge_all_open_tabs = [...]
 # User's Edge browser tabs metadata
 edge_all_open_tabs = [...]
-
+| File Name | Structural Role & Explanation |
+| --- | --- |
+| **Toplogical_Colour_62‑261.xlsx** | **Colour‑Code Structural Map.** Uses the invariant colour scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) to display the full 261 topology ranges and group boundaries. |
