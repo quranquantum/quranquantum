@@ -12,7 +12,7 @@ This repository archives the primary data layers, coordinate matrices, and peer-
 
 The entire model is anchored by **Version 2.0** of the core mathematical monograph, which establishes a geometric framework for unifying spatial extension and temporal structure within an **11-dimensional quantum manifold**:
 
-> *A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4 = 2401$), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.*
+> *A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope(7^4 = 2401), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.*
 
 ---
 
