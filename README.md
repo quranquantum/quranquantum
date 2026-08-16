@@ -10,7 +10,9 @@
 
 This repository archives the primary data layers, coordinate matrices, and peer-review documentation for the **QB228 Topological Reconstruction Framework** alongside the **G2401 Saturated Tesseract System**. 
 
-The integrated model is anchored by **Version 2.0** of the four-part mathematical monograph, which proposes a geometric framework for unifying spatial extension and temporal structure within an **11-dimensional quantum manifold**. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4 = 2401$), the model separates spatial and temporal dynamics into two distinct topological domains—an open spatial "runway" and a compacting temporal "weave"—connected through a Symplectic Lagrangian Grassmannian structure.
+The repository is anchored by **Version 2.0** of the core monograph:
+
+> A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4$), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.
 
 ---
 
@@ -18,11 +20,11 @@ The integrated model is anchored by **Version 2.0** of the four-part mathematica
 
 * **Version 2.0 Monograph: A Unified Topological Framework: Formal Architecture and Emergent Constants of the 11D Saturated Tesseract Manifold (2026)**
   * **Zenodo DOI:** [10.5281/zenodo.21957548](https://doi.org/10.5281/zenodo.21957548)
-  * **Framework Breakdown:**
-    * **Paper I — The Grassmannian Framework:** Establishes internal algebraic stability and its Invariant $k=2$ quadratic track, providing the formal foundation for primary structural containers.
+  * **Framework Papers:**
+    * **Paper I — The Grassmannian Framework:** Establishes the model's internal algebraic stability and its Invariant $k=2$ quadratic track, providing the formal foundation for its primary structural containers.
     * **Paper II — Matrix Containment:** Derives the model's 196,880-unit macro-state capacity through a parabolic projection of the $E_6$ root system over the Griess algebra.
-    * **Paper III — The Kinetic Spin Framework:** Activates the three spatial axes as a dynamic spiral, demonstrating an unbroken scale-invariant coordinate continuum ($10^{-35}\text{m}$ to $10^{26}\text{m}$) within the 62-step logarithmic structure.
-    * **Paper IV — The Spacetime Framework:** Integrates the fourth coordinate axis $T$, mapping linear coordinate drag onto a logarithmic spiral ascent aligned with the $10^{24}\text{Hz}$ electromagnetic spectrum.
+    * **Paper III — The Kinetic Spin Framework:** Activates the three spatial axes as a dynamic spiral and demonstrates an unbroken, scale-invariant coordinate continuum extending from the Planck-length regime ($10^{-35}\text{m}$) to cosmic scales ($10^{26}\text{m}$), within the model's 62-step logarithmic structure.
+    * **Paper IV — The Spacetime Framework:** Integrates the fourth coordinate axis $T$, mapping the linear coordinate drag onto a logarithmic spiral ascent that shares its numerical value with the empirical $10^{24}\text{Hz}$ electromagnetic spectrum, and proposes a structural parallel to the dual-oscillator circadian phase shifts observed in macroscopic biology.
 * **Version v.1 Archive:**
   * **Zenodo DOI:** [10.5281/zenodo.18115223](https://doi.org/10.5281/zenodo.18115223)
 * **Automated Code Repository Archive:**
