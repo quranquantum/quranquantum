@@ -8,31 +8,29 @@
 
 ## 🏛️ Project Abstract & Overview
 
-This repository archives the primary data layers, coordinate matrices, and peer-review documentation for the **QB228 Topological Reconstruction Framework** alongside the **G2401 Saturated Tesseract System**. The integrated model establishes the exact relationship between discrete linguistic string structures and high-dimensional space rendering within an **11-Dimensional Saturated Quantum Manifold**.
+This repository archives the primary data layers, coordinate matrices, and peer-review documentation for the **QB228 Topological Reconstruction Framework** alongside the **G2401 Saturated Tesseract System**. 
 
-By applying $PSL(2, 7)$ Projective Special Linear Group symmetries, the framework demonstrates how non-uniform line distributions (1, 7, 11) compress an overall volumetric envelope capacity of **26,411** down into a stable, uniform **216-vertex rendering grid** ($27\text{ cells} \times 8\text{ corners}$).
-
-The 11th Quantum Manifold operates as a saturated system of **11 identical Tesseract envelopes** ($7^4 = 2401$). Each envelope represents one dimension of the 11D manifold, bounded by the fixed volumetric limit of **2401**. Internal compaction is achieved through varying container densities within that 2401 limit: low-density dimensions (1 line) utilize 9 containers, while high-density dimensions (11 lines) pack 99 containers. The transition between these states is governed by the **261-arc** ($9 \times 29$), with the **297 saturation limit** ($27 \times 11$) acting as the foundational informational seed.
+The integrated model is anchored by **Version 2.0** of the four-part mathematical monograph, which proposes a geometric framework for unifying spatial extension and temporal structure within an **11-dimensional quantum manifold**. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4 = 2401$), the model separates spatial and temporal dynamics into two distinct topological domains—an open spatial "runway" and a compacting temporal "weave"—connected through a Symplectic Lagrangian Grassmannian structure.
 
 ---
 
-## 📚 Preprints & Registered Publications
+## 📚 Central Monograph & Publications
 
-* **On the 324-Unit Gap Between the Leech Lattice and the Griess Algebra: A Documented Correspondence with E6 and the Moser–de Bruijn Sequence (2026)**
-  * **Zenodo DOI:** [10.5281/zenodo.21473522](https://doi.org/10.5281/zenodo.21473522)
-  * **PDF Document:** `Macky_4J_Sporadic_Leech.pdf`
-* **Master Paper Reference (Version 4.0):**
-  * **Zenodo DOI:** [10.5281/zenodo.20584656](https://doi.org/10.5281/zenodo.20584656)
+* **Version 2.0 Monograph: A Unified Topological Framework: Formal Architecture and Emergent Constants of the 11D Saturated Tesseract Manifold (2026)**
+  * **Zenodo DOI:** [10.5281/zenodo.21957548](https://doi.org/10.5281/zenodo.21957548)
+  * **Framework Breakdown:**
+    * **Paper I — The Grassmannian Framework:** Establishes internal algebraic stability and its Invariant $k=2$ quadratic track, providing the formal foundation for primary structural containers.
+    * **Paper II — Matrix Containment:** Derives the model's 196,880-unit macro-state capacity through a parabolic projection of the $E_6$ root system over the Griess algebra.
+    * **Paper III — The Kinetic Spin Framework:** Activates the three spatial axes as a dynamic spiral, demonstrating an unbroken scale-invariant coordinate continuum ($10^{-35}\text{m}$ to $10^{26}\text{m}$) within the 62-step logarithmic structure.
+    * **Paper IV — The Spacetime Framework:** Integrates the fourth coordinate axis $T$, mapping linear coordinate drag onto a logarithmic spiral ascent aligned with the $10^{24}\text{Hz}$ electromagnetic spectrum.
+* **Version v.1 Archive:**
+  * **Zenodo DOI:** [10.5281/zenodo.18115223](https://doi.org/10.5281/zenodo.18115223)
 * **Automated Code Repository Archive:**
   * **Zenodo DOI:** [10.5281/zenodo.18498279](https://doi.org/10.5281/zenodo.18498279)
 
 ---
 
 ## 📊 The 62-261 Saturated System Matrix
-
-This matrix defines the compaction mechanics, boundary constraints, and structural distribution of containers within the manifold volume limit of 2401.
-
-* **Raw Data File:** See `62-261_table.csv` for the complete structured dataset.
 
 | Metric Parameter | Value Constraint | Physical / Geometric Representation |
 | :--- | :--- | :--- |
@@ -42,30 +40,14 @@ This matrix defines the compaction mechanics, boundary constraints, and structur
 | **Transition Arc** | 261 | Compaction arc governing container scaling ($9 \times 29$) |
 | **Nucleus Base** | 62 | Generative nucleus table value driving spatial expansion |
 
-* **Manifold Saturation Floor:** Balanced via the matter-wave core constant of 27.
-* **Density Transition Boundary:** Managed via the 261-arc ($9 \times 29$) scaling matrix.
-
 ---
 
 ## 🛠️ Core Theoretical Pillars
 
-### 1. Topological Spine Identification
-* **Foundational Constraint:** 114-unit Super String.
-* **Vectorization Protocol:** Right-to-Left (R-L) 23-digit filament mapping.
-* **Derived Discrete Vector:** `0147044` (Primary Topological Spine acting as the structural axis).
-
-### 2. Symmetry & Compactification
-* **Governing Group:** $PSL(2, 7)$ symmetry groups managing the non-uniform compression boundaries.
-* **Symmetry Alignment:** Direct correlation to **OEIS A058555** (McKay-Thompson series Class 20F).
-* **Dimensional Threshold:** Local manifestation within the 196,883-dimensional Monster Group space.
-
-### 3. Manifold Dynamics (Circuit Model)
-* **Dipolar Magnetic Loops:** Recursive 2211-unit vectors providing localized electromagnetic stability.
-* **Electric Vectors:** Linear conductive paths routing across the 114-unit topological mesh.
-* **Quantum Stabilization:** 11D Tunneling achieved via the **176 integrated resonance constant** (167 root sum + 9 key nodes).
-
-### 4. G2401 Tesseract Geometry
-* **Volumetric Limit:** $7^4 = 2401$ bounds each independent dimensional envelope.
+1. **Topological Spine Identification:** 114-unit Super String mapped via Right-to-Left (R-L) 23-digit filament analysis yielding the primary vector `0147044`.
+2. **Symmetry & Compactification:** $PSL(2, 7)$ symmetry groups managing non-uniform compression boundaries aligned with **OEIS A058555**.
+3. **Manifold Dynamics:** Recursive 2211-unit dipolar magnetic loops and linear conductive paths stabilized via the **176 integrated resonance constant**.
+4. **G2401 Tesseract Geometry:** Governed strictly by the $7^4 = 2401$ volumetric limit per dimensional envelope.
 
 ---
 
@@ -73,13 +55,13 @@ This matrix defines the compaction mechanics, boundary constraints, and structur
 
 | File Name | Structural Role & Mathematical Explanation |
 | :--- | :--- |
-| `Strings Full List-47L-31N-21Y(Sheet1).csv` | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values ($4194 + 2211 + 1435 = 7840$) and dynamic matter-wave frequencies ($11359 + 5232 + 3532 = 20132$). |
-| `The Mathani Dual-Anchor Vector Matrix (15)...csv` | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that dictate asymmetric line compression and prevent manifold collapse. |
-| `114 list(99+15)GI(Sheet1).csv` | **Integrated Index Matrix.** Synthesizes the core 99 extended names with the 15 dual-anchor *Mathani* invariants into a unified 114-unit topological super-string. |
-| `3-codes-114-GI(Sheet1).csv` | **Triple Coordination Keys.** Tracks the simultaneous code frequencies required for cross-dimensional mapping. |
-| `code A&Z 99-GI(Sheet1).csv` | **Alpha/Z-Manifold Maps.** Coordinates the pairing mechanics between the top-end anchor (Allah) and the terminus anchor (Alakram) across the 297/298-degree threshold. |
+| `Strings Full List-47L-31N-21Y(Sheet1).csv` | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
+| `The Mathani Dual-Anchor Vector Matrix (15)...csv` | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones. |
+| `114 list(99+15)GI(Sheet1).csv` | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants. |
+| `3-codes-114-GI(Sheet1).csv` | **Triple Coordination Keys.** Tracks simultaneous cross-dimensional code frequencies. |
+| `code A&Z 99-GI(Sheet1).csv` | **Alpha/Z-Manifold Maps.** Coordinates pairing mechanics across the 297/298-degree threshold. |
 | `combined Codes-GI(Sheet1).csv` | **Unified Structural Values.** Consolidated database layer for automated system validation. |
-| `topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of the 196,883 resonant saturation alignments and boundary field invariants. |
-| `Z-11 Quantum Compactification (G2401).pdf` | **Upcoming Publication.** Comprehensive proof of the 11-Tesseract saturation model, the 26,411 manifold ceiling, and the 261-arc density transition equations. |
-| **Strings Master Colour List‑47L‑31N‑21Y (2).xlsx** | **Coloured Master Invariant Matrix.** Visual version of the 47‑31‑21 structural dataset, highlighting static lines, dynamic nodes, and yield‑points for verification and reproduction. |
-| **Toplogical_Colour_62‑261.xlsx** | **Colour‑Code Structural Map.** Uses the invariant colour scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) to display the full 261 topology ranges and group boundaries. |
+| `topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of 196,883 resonant saturation alignments. |
+| `Z-11 Quantum Compactification (G2401).pdf` | **Monograph Documentation.** Comprehensive proof of the 11-Tesseract saturation model. |
+| **Strings Master Colour List‑47L‑31N‑21Y (2).xlsx** | **Coloured Master Invariant Matrix.** Visual dataset highlighting static lines, dynamic nodes, and yield points. |
+| **Toplogical_Colour_62‑261.xlsx** | **Colour‑Code Structural Map.** Uses the invariant color scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) across the 261 topology ranges. |
