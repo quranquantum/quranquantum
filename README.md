@@ -37,7 +37,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 ## 🔬 Core Theoretical Framework: QB228 & G2401 Saturated System
 
 * **Research Area:** 11D Manifold Stability & 114-Unit Super-String  
-* **Mathematical Framework:** $PSL(2, 7)$ Symmetry, Monstrous Moonshine, & OEIS A058555  
+* **Mathematical Framework:** PSL(2, 7) Symmetry, Monstrous Moonshine, & OEIS A058555  
 * **Author:** Ahmed Macky ([ORCID Profile](https://orcid.org/0009-0003-0580-2133))
 
 > *A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4 = 2401$), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.*
