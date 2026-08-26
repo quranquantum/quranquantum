@@ -48,7 +48,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 | Metric Parameter | Value Constraint | Physical / Geometric Representation |
 | :--- | :--- | :--- |
-| **Total Manifold Capacity** | 26,411 | Saturated system of 11 identical Tesseract envelopes |
+| **Total Manifold Capacity** | 26,411 | Saturated system of 11 identical Tesseract envelopes *(formally derived in `Z-11 Quantum Compactification (G2401).pdf`)* |
 | **Volumetric Envelope** | 2401 | Bounded outer limit ($7^4$) per dimension |
 | **Fundamental Seed** | 297 | Matter-wave core informational seed ($27 \times 11$) |
 | **Transition Arc** | 261 | Compaction arc governing container scaling ($9 \times 29$) |
@@ -75,7 +75,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 ## 🛠️ Core Theoretical Pillars & Invariant Matrices
 
 1. **The 47-31-21 Invariant Matrix & Topological Spine:** Decoupled static boundary values ($4194 + 2211 + 1435 = 7840$) paired with dynamic matter-wave frequencies ($11359 + 5232 + 3532 = 20132$) mapped across the 114-unit Super String via Right-to-Left (R-L) 23-digit filament analysis (primary vector `0147044`).
-2. **Symmetry & Compactification (PSL(2, 7)):** Non-uniform compression boundaries managed via projective special linear group symmetries directly correlated to **OEIS A058555** (McKay-Thompson class 20F) within the 196,883 Monster Group space.
+2. **Symmetry & Compactification ($PSL(2, 7)$):** Non-uniform compression boundaries managed via projective special linear group symmetries directly correlated to **OEIS A058555** (McKay-Thompson class 20F) within the 196,883 Monster Group space.
 3. **Manifold Dynamics & Magnetic Loops:** Recursive 2211-unit dipolar magnetic loops and linear conductive paths routing across the topological mesh, stabilized by the **176 integrated resonance constant** (167 root sum + 9 key nodes).
 4. **G2401 Tesseract Geometry:** Saturated packing of 11 identical tesseract envelopes governed strictly by the $7^4 = 2401$ volumetric limit per dimension.
 
