@@ -6,6 +6,20 @@
 
 ---
 
+## 📖 Repository Reading Sequence & Core Publications
+
+To follow the complete architectural progression of the project as a cohesive, sequential volume ("book form"), please review the primary publications in chronological order:
+
+### 1. The Core Sequential Series
+* **Part I (December 29, 2025):** *Topological Reconstruction of the 11-Dimensional Manifold and the PSL(2,7) Symmetry of the 114-Unit Super String* (Cataloged under working designation QB228).  
+  * *Zenodo DOI:* [10.5281/zenodo.18762919](https://doi.org/10.5281/zenodo.18762919)
+* **Part II (June 7, 2026):** *The 11D Quantum Manifold: Saturated Tesseract Dynamics and the Natural Emergence of E6 Symmetry and the Gravitational Constant G* (Establishing the G2401 tesseract geometry).  
+  * *Zenodo DOI:* [10.5281/zenodo.20691659](https://doi.org/10.5281/zenodo.20691659)
+* **Part III (August 15, 2026):** *A Unified Topological Framework: Formal Architecture and Emergent Constants of the 11D Saturated Tesseract Manifold* (Four-part mathematical monograph unifying spatial and temporal structures).  
+  * *Zenodo DOI:* [10.5281/zenodo.21957548](https://doi.org/10.5281/zenodo.21957548)
+
+---
+
 ## 🏛️ Abstract
 
 This paper presents an architectural overview of an autonomous, deterministic mathematical framework mapping the Uthmani Codex. Moving beyond conventional historical narratives or external scientific skepticism, this research documents the precise baseline parameters of the system: the **114-fold structural fabric**, accumulated across a **23-year temporal span**, and its expression through the **6,236-verse corpus** anchored by the invariant Uthmani Rasm. Rather than prescribing interpretations, the framework records these numerical coordinates and structural arrays as an objective, self-generating mathematical system. Through rule-based spatial, lexical, and coordinate transformations, the model traces how these baseline figures systematically generate rigorous geometric constants—such as the **261-arc**—which close into higher-dimensional tesseract manifold envelopes. By presenting a transparent, empirical mapping of the text, this work invites the reader to examine the recurrent numeric arrays and trace their internal architectural relationships through direct replication. Exhaustive algebraic proofs, data matrices, and computational codebases are cross-referenced across companion volumes.
@@ -37,10 +51,10 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 ## 🔬 Core Theoretical Framework: QB228 & G2401 Saturated System
 
 * **Research Area:** 11D Manifold Stability & 114-Unit Super-String  
-* **Mathematical Framework:** (PSL(2, 7)) Symmetry, Monstrous Moonshine, & OEIS A058555  
+* **Mathematical Framework:** $PSL(2, 7)$ Symmetry, Monstrous Moonshine, & OEIS A058555  
 * **Author:** Ahmed Macky ([ORCID Profile](https://orcid.org/0009-0003-0580-2133))
 
-> *A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope (7^4 = 2401), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.*
+> *A four-part mathematical monograph proposing a geometric framework for unifying spatial extension and temporal structure within an 11-dimensional quantum manifold. Starting from a saturated system of identical tesseract envelopes bounded strictly by a fixed volumetric envelope ($7^4 = 2401$), the model separates spatial and temporal dynamics into two distinct topological domains — an open spatial "runway" and a compacting temporal "weave" — connected through a Symplectic Lagrangian Grassmannian structure.*
 
 ---
 
@@ -53,22 +67,6 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 | **Fundamental Seed** | 297 | Matter-wave core informational seed ($27 \times 11$) |
 | **Transition Arc** | 261 | Compaction arc governing container scaling ($9 \times 29$) |
 | **Nucleus Base** | 62 | Generative nucleus table value driving spatial expansion |
-
----
-
-## 📚 Central Monograph & Publications
-
-* **Version 2.0 Monograph: A Unified Topological Framework: Formal Architecture and Emergent Constants of the 11D Saturated Tesseract Manifold (2026)**
-  * **Zenodo DOI:** [10.5281/zenodo.21957548](https://doi.org/10.5281/zenodo.21957548)
-  * **Core Monograph Structure:**
-    * **Paper I — The Grassmannian Framework:** Establishes internal algebraic stability and its Invariant $k=2$ quadratic track, providing the formal foundation for primary structural containers.
-    * **Paper II — Matrix Containment:** Derives the model's 196,880-unit macro-state capacity through a parabolic projection of the $E_6$ root system over the Griess algebra.
-    * **Paper III — The Kinetic Spin Framework:** Activates the three spatial axes as a dynamic spiral, demonstrating an unbroken scale-invariant coordinate continuum ($10^{-35}\text{m}$ to $10^{26}\text{m}$) within the 62-step logarithmic structure.
-    * **Paper IV — The Spacetime Framework:** Integrates the fourth coordinate axis $T$, mapping linear coordinate drag onto a logarithmic spiral ascent aligned with the $10^{24}\text{Hz}$ electromagnetic spectrum and biological dual-oscillator phase shifts.
-* **Version v.1 Archive:**
-  * **Zenodo DOI:** [10.5281/zenodo.18115223](https://doi.org/10.5281/zenodo.18115223)
-* **Automated Code Repository Archive:**
-  * **Zenodo DOI:** [10.5281/zenodo.18498279](https://doi.org/10.5281/zenodo.18498279)
 
 ---
 
@@ -100,7 +98,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 ### Repository Directory Structure
 ```text
-├── datasets/            # Core CSV matrices, spatial indexes, and numerical arrays
-├── code/                # Processing scripts, Code-1 / Code-Z logic, and computational definitions
-├── docs/                # Supplementary whitepapers, structural breakdowns, and preprints
-└── README.md            # Master architectural overview
+├── datasets/             # Core CSV matrices, spatial indexes, and numerical arrays
+├── code/                 # Processing scripts, Code-1 / Code-Z logic, and computational definitions
+├── docs/                 # Supplementary whitepapers, structural breakdowns, and preprints
+└── README.md             # Master architectural overview
