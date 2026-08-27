@@ -2,7 +2,7 @@
 
 > **Quranic Quantum Research Centre (QQRC)**  
 > **Official Open-Science Research Portal & Repository**  
-> **Mandate:** Documenting and mapping the internal mathematical, structural, and topological properties of the Uthmani Codex through deterministic and reproducible models.
+> **Mandate:** Documenting and mapping the internal mathematical, structural, and topological properties—linking the cultural architecture of the Uthmani Codex directly to modern higher-dimensional geometry through deterministic and reproducible models.
 
 ---
 
@@ -22,7 +22,7 @@ To follow the complete architectural progression of the project as a cohesive, s
 
 ## 🏛️ Abstract
 
-This paper presents an architectural overview of an autonomous, deterministic mathematical framework mapping the Uthmani Codex. Moving beyond conventional historical narratives or external scientific skepticism, this research documents the precise baseline parameters of the system: the **114-fold structural fabric**, accumulated across a **23-year temporal span**, and its expression through the **6,236-verse corpus** anchored by the invariant Uthmani Rasm. Rather than prescribing interpretations, the framework records these numerical coordinates and structural arrays as an objective, self-generating mathematical system. Through rule-based spatial, lexical, and coordinate transformations, the model traces how these baseline figures systematically generate rigorous geometric constants—such as the **261-arc**—which close into higher-dimensional tesseract manifold envelopes. By presenting a transparent, empirical mapping of the text, this work invites the reader to examine the recurrent numeric arrays and trace their internal architectural relationships through direct replication. Exhaustive algebraic proofs, data matrices, and computational codebases are cross-referenced across companion volumes.
+This paper presents an architectural overview of an autonomous, deterministic mathematical framework bridging the cultural architecture of the Uthmani Codex with modern higher-dimensional topology. Moving beyond conventional historical narratives or external scientific skepticism, this research documents the precise baseline parameters of the system: the **114-fold structural fabric**, accumulated across a **23-year temporal span**, and its expression through the **6,236-verse corpus** anchored by the invariant Uthmani Rasm. Rather than prescribing interpretations, the framework records these text-based numerical coordinates and structural arrays as an objective, self-generating mathematical system. Through rule-based spatial, lexical, and coordinate transformations, the model traces how these baseline cultural-text figures systematically generate rigorous geometric constants—such as the **261-arc**—which close into higher-dimensional tesseract manifold envelopes. By presenting a transparent, empirical mapping from text to physics, this work invites the reader to examine the recurrent numeric arrays and trace their internal architectural relationships through direct replication. Exhaustive algebraic proofs, data matrices, and computational codebases are cross-referenced across companion volumes.
 
 ---
 
