@@ -83,13 +83,14 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 | File Name | Structural Role & Mathematical Explanation |
 | :--- | :--- |
-| `Strings Full List-47L-31N-21Y(Sheet1).csv` | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
-| `The Mathani Dual-Anchor Vector Matrix (15)...csv` | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that prevent manifold collapse. |
-| `114 list(99+15)GI(Sheet1).csv` | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants into a unified 114 super-string. |
-| `3-codes-114-GI(Sheet1).csv` | **Triple Coordination Keys.** Tracks simultaneous cross-dimensional code frequencies. |
-| `code A&Z 99-GI(Sheet1).csv` | **Alpha/Z-Manifold Maps.** Coordinates pairing mechanics between top-end (Allah) and terminus (Alakram) anchors. |
-| `combined Codes-GI(Sheet1).csv` | **Unified Structural Values.** Consolidated database layer for automated system validation. |
+| [`Strings Full List-47L-31N-21Y(Sheet1).csv`](datasets/Strings%20Full%20List-47L-31N-21Y(Sheet1).csv) | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
+| [`The Mathani Dual-Anchor Vector Matrix (15)(Sheet1).csv`](datasets/The%20Mathani%20Dual-Anchor%20Vector%20Matrix%20(15)(Sheet1).csv) | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that prevent manifold collapse. |
+| [`114 list(99+15)GI(Sheet1).csv`](datasets/114%20list(99+15)GI(Sheet1).csv) | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants into a unified 114 super-string. |
+| [`3-codes-114-GI(Sheet1).csv`](datasets/3-codes-114-GI(Sheet1).csv) | **Triple Coordination Keys.** Tracks simultaneous cross-dimensional code frequencies. |
+| [`code A&Z 99-GI(Sheet1).csv`](datasets/code%20A&Z%2099-GI(Sheet1).csv) | **Alpha/Z-Manifold Maps.** Coordinates pairing mechanics between top-end (Allah) and terminus (Alakram) anchors. |
+| [`combined Codes-GI(Sheet1).csv`](datasets/combined%20Codes-GI(Sheet1).csv) | **Unified Structural Values.** Consolidated database layer for automated system validation. |
+| [`62-261_table.csv`](datasets/62-261_table.csv) | **62-261 Saturated System Table.** Base matrix mapping container scales and transition arcs. |
 | `topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of 196,883 resonant saturation alignments and boundary invariants. |
 | `Z-11 Quantum Compactification (G2401).pdf` | **Monograph Documentation.** Comprehensive proof of the 11-Tesseract saturation model. |
-| `Strings Master Colour List‑47L‑31N‑21Y (2).xlsx` | **Coloured Master Invariant Matrix.** Visual dataset highlighting static lines, dynamic nodes, and yield points. |
-| `Toplogical_Colour_62‑261.xlsx` | **Colour‑Code Structural Map.** Uses the invariant color scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) across the 261 topology ranges. |
+| [`Strings Master Colour List-47L-31N-21Y (2).xlsx`](datasets/Strings%20Master%20Colour%20List-47L-31N-21Y%20(2).xlsx) | **Coloured Master Invariant Matrix.** Visual dataset highlighting static lines, dynamic nodes, and yield points. |
+| [`Toplogical_Colour_62-261.xlsx`](datasets/Toplogical_Colour_62-261.xlsx) | **Colour‑Code Structural Map.** Uses the invariant color scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) across the 261 topology ranges. |
