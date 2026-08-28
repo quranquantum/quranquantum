@@ -31,11 +31,11 @@ This paper presents an architectural overview of an autonomous, deterministic ma
 To ensure absolute objectivity, reproducibility, and structural integrity, this study establishes three invariant baseline pillars before any geometric or mathematical operations are applied:
 
 1. **The Textual Baseline (The Rasm):**  
-   The analytical framework relies strictly on the definitive text that has survived and been preserved through authorized institutional traditions (such as verified prints of Al-Azhar and the Saudi printing authority). This study explicitly rejects modern, unverified digital transcriptions that introduce unauthorized orthographic modifications (such as the insertion of a phonetic `A` alef). Anchoring the research exclusively to the exact graphical form of the surviving master text preserves the closed system's mathematical purity.
+    The analytical framework relies strictly on the definitive text that has survived and been preserved through authorized institutional traditions (such as verified prints of Al-Azhar and the Saudi printing authority). This study explicitly rejects modern, unverified digital transcriptions that introduce unauthorized orthographic modifications (such as the insertion of a phonetic `A` alef). Anchoring the research exclusively to the exact graphical form of the surviving master text preserves the closed system's mathematical purity.
 2. **The Linguistic Baseline (The Leeds Corpus):**  
-   The categorization of word roots, lemmas, and morphological forms is drawn directly from the established datasets of the Quranic Arabic Corpus (University of Leeds). Utilizing this independent, peer-reviewed linguistic baseline separates standardized textual inputs from the geometric and architectural operations performed upon them.
+    The categorization of word roots, lemmas, and morphological forms is drawn directly from the established datasets of the Quranic Arabic Corpus (University of Leeds). Utilizing this independent, peer-reviewed linguistic baseline separates standardized textual inputs from the geometric and architectural operations performed upon them.
 3. **The Spatial Baseline (The Noon Centre Index):**  
-   All coordinate mapping, positional tracking, and matrix indexing are governed exclusively by the published Global Index by the Noon Centre. By anchoring all dimensional calculations to this single, standardized index, the framework ensures absolute positional consistency, eliminating ambiguity in verse addressing and making every computational step entirely reproducible.
+    All coordinate mapping, positional tracking, and matrix indexing are governed exclusively by the published Global Index by the Noon Centre. By anchoring all dimensional calculations to this single, standardized index, the framework ensures absolute positional consistency, eliminating ambiguity in verse addressing and making every computational step entirely reproducible.
 
 ---
 
@@ -62,7 +62,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 | Metric Parameter | Value Constraint | Physical / Geometric Representation |
 | :--- | :--- | :--- |
-| **Total Manifold Capacity** | 26,411 | Saturated system of 11 identical Tesseract envelopes *(formally derived in `Z-11 Quantum Compactification (G2401).pdf`)* |
+| **Total Manifold Capacity** | 26,411 | Saturated system of 11 identical Tesseract envelopes *(formally derived in `docs/Z-11 Quantum Compactification (G2401).pdf`)* |
 | **Volumetric Envelope** | 2401 | Bounded outer limit ($7^4$) per dimension |
 | **Fundamental Seed** | 297 | Matter-wave core informational seed ($27 \times 11$) |
 | **Transition Arc** | 261 | Compaction arc governing container scaling ($9 \times 29$) |
@@ -81,18 +81,18 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 ## 📁 Repository Index & Data Files
 
-| File Name | Structural Role & Mathematical Explanation |
+| File Path / Name | Structural Role & Mathematical Explanation |
 | :--- | :--- |
-| `Strings Full List-47L-31N-21Y(Sheet1).csv` | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
-| `The Mathani Dual-Anchor Vector Matrix (15)...csv` | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that prevent manifold collapse. |
-| `114 list(99+15)GI(Sheet1).csv` | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants into a unified 114 super-string. |
-| `3-codes-114-GI(Sheet1).csv` | **Triple Coordination Keys.** Tracks simultaneous cross-dimensional code frequencies. |
-| `code A&Z 99-GI(Sheet1).csv` | **Alpha/Z-Manifold Maps.** Coordinates pairing mechanics between top-end (Allah) and terminus (Alakram) anchors. |
-| `combined Codes-GI(Sheet1).csv` | **Unified Structural Values.** Consolidated database layer for automated system validation. |
-| `topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of 196,883 resonant saturation alignments and boundary invariants. |
-| `Z-11 Quantum Compactification (G2401).pdf` | **Monograph Documentation.** Comprehensive proof of the 11-Tesseract saturation model. |
-| `Strings Master Colour List‑47L‑31N‑21Y (2).xlsx` | **Coloured Master Invariant Matrix.** Visual dataset highlighting static lines, dynamic nodes, and yield points. |
-| `Toplogical_Colour_62‑261.xlsx` | **Colour‑Code Structural Map.** Uses the invariant color scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) across the 261 topology ranges. |
+| `datasets/Strings Full List-47L-31N-21Y(Sheet1).csv` | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
+| `datasets/The Mathani Dual-Anchor Vector Matrix (15)...csv` | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that prevent manifold collapse. |
+| `datasets/114 list(99+15)GI(Sheet1).csv` | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants into a unified 114 super-string. |
+| `datasets/3-codes-114-GI(Sheet1).csv` | **Triple Coordination Keys.** Tracks simultaneous cross-dimensional code frequencies. |
+| `datasets/code A&Z 99-GI(Sheet1).csv` | **Alpha/Z-Manifold Maps.** Coordinates pairing mechanics between top-end (Allah) and terminus (Alakram) anchors. |
+| `datasets/combined Codes-GI(Sheet1).csv` | **Unified Structural Values.** Consolidated database layer for automated system validation. |
+| `docs/topological QB228.pdf` | **Core Proofs Document.** Detailed analysis of 196,883 resonant saturation alignments and boundary invariants. |
+| `docs/Z-11 Quantum Compactification (G2401).pdf` | **Monograph Documentation.** Comprehensive proof of the 11-Tesseract saturation model. |
+| `datasets/Strings Master Colour List‑47L‑31N‑21Y (2).xlsx` | **Coloured Master Invariant Matrix.** Visual dataset highlighting static lines, dynamic nodes, and yield points. |
+| `datasets/Toplogical_Colour_62‑261.xlsx` | **Colour‑Code Structural Map.** Uses the invariant color scheme (Red = 216, Grey = 62, White = 99 static, Light‑Blue = 99 dynamic) across the 261 topology ranges. |
 
 ---
 
