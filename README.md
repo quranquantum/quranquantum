@@ -83,6 +83,7 @@ To ensure absolute objectivity, reproducibility, and structural integrity, this 
 
 | File Name | Structural Role & Mathematical Explanation |
 | :--- | :--- |
+| [`Original Names Table.xlsx`](datasets/Original%20Names%20Table.xlsx) | **Original Names Baseline.** Maps the foundational name attributes, root structures, and linguistic lists governing the system taxonomy. |
 | [`Strings Full List-47L-31N-21Y(Sheet1).csv`](datasets/Strings%20Full%20List-47L-31N-21Y(Sheet1).csv) | **The 47-31-21 Invariant Matrix.** Maps decoupled static boundary values and dynamic matter-wave frequencies. |
 | [`The Mathani Dual-Anchor Vector Matrix (15)(Sheet1).csv`](datasets/The%20Mathani%20Dual-Anchor%20Vector%20Matrix%20(15)(Sheet1).csv) | **The 15 Invariant Coordinate Pairs.** Maps the $11 + 3 + 2$ spatial zones that prevent manifold collapse. |
 | [`114 list(99+15)GI(Sheet1).csv`](datasets/114%20list(99+15)GI(Sheet1).csv) | **Integrated Index Matrix.** Synthesizes core 99 names with 15 *Mathani* invariants into a unified 114 super-string. |
