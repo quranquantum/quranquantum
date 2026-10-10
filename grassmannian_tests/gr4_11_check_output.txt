@@ -1,0 +1,20 @@
+grey 62 cells: 62  white: 99  blue: 99  216: 1
+total: 26411 (expected 26411 = 11*7^4)
+
+62                           {'rank4': 42, 'pos': 21, 'neg': 18, 'mixed': 3, 'Gr>=0': 39}
+62+216                       {'rank4': 42, 'pos': 13, 'neg': 14, 'mixed': 15, 'Gr>=0': 27}
+62+216+white                 {'rank4': 126, 'pos': 0, 'neg': 0, 'mixed': 126, 'Gr>=0': 0}
+62+216+blue                  {'rank4': 126, 'pos': 0, 'neg': 0, 'mixed': 126, 'Gr>=0': 0}
+62+216+white+blue (full)     {'rank4': 126, 'pos': 0, 'neg': 0, 'mixed': 126, 'Gr>=0': 0}
+white only                   {'rank4': 126, 'pos': 0, 'neg': 0, 'mixed': 126, 'Gr>=0': 0}
+blue only (9x11 rows)        {'rank4': 126, 'pos': 3, 'neg': 1, 'mixed': 122, 'Gr>=0': 4}
+
+99 dy even-line test (rows = D2,D4,D6,D8,D10; columns = the 11 even lines in order)
+  omit D2: nonzero 5 of 330, all >=0: True, any<0: False
+  omit D4: nonzero 15 of 330, all >=0: True, any<0: False
+  omit D6: nonzero 15 of 330, all >=0: True, any<0: False
+  omit D8: nonzero 3 of 330, all >=0: True, any<0: False
+  omit D10: nonzero 15 of 330, all >=0: True, any<0: False
+  (block layout: each row lives in its own consecutive block of columns, so every
+   nonzero minor is a product of one entry per row in increasing column order -> positive
+   for any positive entries. The result follows from the layout, not from the values.)
