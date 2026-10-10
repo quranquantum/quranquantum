@@ -1,0 +1,11 @@
+S1 grey62 [8063, 0, 171, 0, 565, 0, 428, 0, 271, 0, 297] sum 9795
+S2 white [3162, 0, 547, 0, 1074, 0, 1648, 0, 742, 0, 667] sum 7840
+S3 216 [0, 0, 0, 0, 0, 0, 216, 0, 0, 0, 0] sum 216
+S4 blue [0, 1542, 0, 577, 0, 604, 0, 4135, 0, 1702, 0] sum 8560
+nonzero 50 pos 28 neg 22
+without col D7 all zero: True
+nonzero with D7: 50 of 120
+S1 grey62 columns used (D index 1-11): [1, 3, 5, 7, 9, 11]
+S2 white columns used (D index 1-11): [1, 3, 5, 7, 9, 11]
+S3 216 columns used (D index 1-11): [7]
+S4 blue columns used (D index 1-11): [2, 4, 6, 8, 10]
