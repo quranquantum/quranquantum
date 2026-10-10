@@ -1,0 +1,6 @@
+real (42, 39)
+uniform random in 44 297 : trials 150
+ rank4 mean 126.0 ; Gr>=0 mean 0.0
+ fraction Gr>=0 among rank-4: 0.00
+ trials with >=39 Gr>=0: 0 ; with rank4>=42: 150
+resample of the real values: rank4 mean 18.0 ; Gr>=0 mean 17.3 ; fraction 0.96

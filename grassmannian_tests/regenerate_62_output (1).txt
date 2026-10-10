@@ -1,0 +1,4 @@
+names: 114  sum: 9795
+regenerated cells: 62  table cells: 62
+IDENTICAL (cell numbers and net values): True
+single-name cells: 34  multi-name cells: 28

@@ -1,0 +1,9 @@
+62 real    {'rank4': 42, 'pos': 21, 'neg': 18, 'mixed': 3, 'Gr>=0': 39}
+62 ones    {'rank4': 42, 'pos': 20, 'neg': 19, 'mixed': 3, 'Gr>=0': 39}
+62+216 real {'rank4': 42, 'pos': 13, 'neg': 14, 'mixed': 15, 'Gr>=0': 27}
+62+216 ones {'rank4': 42, 'pos': 13, 'neg': 14, 'mixed': 15, 'Gr>=0': 27}
+blue real  {'rank4': 126, 'pos': 3, 'neg': 1, 'mixed': 122, 'Gr>=0': 4}
+blue ones  {'rank4': 0, 'pos': 0, 'neg': 0, 'mixed': 0, 'Gr>=0': 0}
+62: same set of one-signed choices real vs ones: True 39 39
+S1-S4 real (50, 28, 22)
+S1-S4 ones (35, 19, 16)
