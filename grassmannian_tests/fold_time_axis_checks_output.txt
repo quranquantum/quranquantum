@@ -1,0 +1,31 @@
+PASS  D6 - D3 = 604 - 718 = -114 (capacities taken from the grid, as published)
+PASS  lcm(24,36)=72, lcm(27,36)=108, lcm(24,27)=216, lcm(24,27,36)=216
+PASS  gcd(114,216)=6 and 216/6=36 matches
+PASS  shift 114 applied k times: 36 distinct positions, all multiples of 6, none repeats before 36
+PASS  gear turns in 216 ticks: 9, 8, 6
+PASS  great cycle = 36*114 = 4104 = 19*216 (19 half-turns)
+PASS  4104/432 = 9.5 circles, so the half is exchanged
+PASS  two great cycles 8208 = 19*432
+PASS  combined cycle 24624 = 114*216 = 57*432 (114 half-turns)
+PASS  with two orientations: 2*114 = 228
+PASS  gear turns in a great cycle: 171, 152, 114
+PASS  meetings per half-turn: 3, 2, 1
+PASS  meetings in a great cycle: 57, 38, 19 (sum 114); combined 342, 228, 114 (sum 684)
+PASS  114/216 = 19/36 in lowest terms
+PASS  Farey order 39 has 475 fractions
+PASS  numerators sum to 6236, denominators to 12472
+PASS  19/36 lies in Farey order 39
+PASS  24 modes: F F* = 24 I and rank 24
+PASS  -24/24 = -1; level two 24 + 24*25/2 = 324
+PASS  core sum 7840-1235 = 8560-1955 = 6605
+PASS  rho maps 16..99 onto itself in reverse, rho(rho(i))=i
+PASS  lines 14+9+4 = 27 spatial, +2 for T = 29
+PASS  pairs (n,w): 216*36 = 7776 = 6**5 = 36*36*6
+PASS  95 degrees * w mod 180 gives 36 distinct angles, all multiples of 5
+PASS  n = 6m + r covers 0..215 once
+PASS  mirror (m,r,w)->(w,r,m) maps the clock orbit onto itself; 216 fixed states
+PASS  all clock quantities have the form 2^a 3^b 19^c with c <= 1
+PASS  relative windings 1, 2, 3 and both threes agree
+PASS  diameter 36 to 216 is 180 long; 216 = 180 + 36 = 6*36 = 6**3; step 6 of 36 degrees
+
+ALL PASS
