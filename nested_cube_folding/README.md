@@ -7,7 +7,7 @@ Paper: https://doi.org/10.5281/zenodo.23387817
 ## What is here
 
 - `nested_cube_checks.py` : a short Python script (standard library only) that reproduces every count used in the paper. It runs in under a second.
-- `nested_cube_checks_output.txt` : the full output of the script, as printed in the paper.
+- `nested_cube_checks_output.txt` : the full output of the script.
 
 ## What the script reproduces
 
@@ -17,6 +17,9 @@ Paper: https://doi.org/10.5281/zenodo.23387817
 - The cubes of 1, 8 and 27 in eleven dimensions: equal splits, and splits meeting s + p = k^3 + 1.
 - The depths at which the cubes of 27 and 64 meet the same condition.
 - The alternative in which the fourth axis weighs one face of the cube, p = k^2.
+- The four arrangements of the leaders, and the sums of the leaders of the three axes in each: 6, 6, 8 and 10. Only the arrangement whose fourth axis carries the centre index 6 has the three axes led by 1, 2 and 5, which add to 8 = 2^3, and the fourth axis led by 3.
+"The only three different positive whole numbers with sum equal to product, searched to 2000: (1, 2, 3).
+"The volume by cubing a cube: sides 2, 4 and 8 give 8, 64 and 512, that is 2^3, 2^6 and 2^9, with 8^3 = 2^9 = 8 x 64 = 2 x 4^4.
 
 ## How to run
 
